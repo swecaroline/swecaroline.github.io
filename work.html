@@ -6,16 +6,10 @@ order: 2
 
 <p>5+ years of software development projects, including a combination of paid work, coursework, and personal projects.</p>
 
-<h2>Ongoing</h2>
-<div class="project-preview-container">
 {% assign featured = site.projects | where_exp:"item", "item.category contains 'current-work'" | reverse %}
 {% for post in featured %}
     {% include project_preview.html %}
 {% endfor %}
-</div>
-
-<h2>Past</h2>
-<div class="project-preview-container">
 {% assign featured = site.projects | where_exp:"item", "item.category contains 'past-work'" | reverse %}
 {% for post in featured %}
     {% include project_preview.html %}

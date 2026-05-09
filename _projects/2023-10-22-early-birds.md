@@ -25,5 +25,22 @@ in February 2023, after first coming up with the project idea, I wrote a script 
 
 ---
 
-![](/assets/images/earlybird/start_scroll.jpg){:class="image-wide"}   
-![](/assets/images/earlybird/billy.jpg){:class="image-wide"}   
+<div class="mockup-browser border border-base-300 w-full">
+  <div class="mockup-browser-toolbar">
+    <div class="input bg-white">https://swecaroline.github.io/early-birds</div>
+  </div>
+    <img
+      alt="daisy"
+       src="/assets/images/earlybird/start_scroll.jpg" />
+</div>
+<p class="image-caption">Data visualization timeline</p>
+
+<div class="mockup-browser border border-base-300 w-full">
+  <div class="mockup-browser-toolbar">
+    <div class="input bg-white">https://swecaroline.github.io/early-birds</div>
+  </div>
+    <img
+      alt="daisy"
+       src="/assets/images/earlybird/billy.jpg" />
+</div>
+<p class="image-caption">Smashing Pumpkins mentioned</p>

@@ -11,12 +11,28 @@ skillsets:
 - Immersive design
 - Game development
 - 3D
+- Cultural heritage
 published: true
 ---
 
+# 8135 Baltimore Avenue (2024)
+Documenting and speculating on the redevelopment of a beloved campus shopping center.
+<hr>
+
+**Role:** Photogrammetry, 360 photography, visual direction, C# scripting
+<hr>
+
+**Course:** IMDM390 with Prof. Yael Inbar
+<hr>
+
+**Tech stack:** Polycam, Insta360, Adobe Creative Suite, Unity, C#
+<hr>
+
+**Approaches:** Immersive design, game development, 3D, cultural heritage  
+<hr>
+
 <div class="text-section" markdown="1">
 
-# 8135 Baltimore Avenue (2024)
 **8135 Baltimore Avenue** is an immersive digital exhibit about the redevelopment of Campus Village Shoppes. Shapeshifting between the visual styles of photogrammetry, 3D modeling, and 2D illustration, this exhibit captures the memories, speculations, and current events of the plaza from the perspective of College Park students. The exhibit was built in Unity for Windows PC in collaboration with Lara Geis and Danika Perez.
 
 </div>

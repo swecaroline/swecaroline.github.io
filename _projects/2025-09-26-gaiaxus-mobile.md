@@ -2,7 +2,7 @@
 layout: default
 title: "GaiaXus Mobile App"
 date: 2025-09-26 -0500
-date_range: "AUG 2024 - PRESENT"
+date_range: "AUG 2024 - MAY 2026"
 description: "I joined a startup and scaled its mobile app for operating water quality monitoring sensors, collecting data, and viewing educational content, while maintaining ease of use and offline-first functionality."
 category: "current-work"
 skillsets:

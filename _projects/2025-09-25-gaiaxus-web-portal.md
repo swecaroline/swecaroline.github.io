@@ -3,7 +3,7 @@ layout: default
 title: "GaiaXus Web Portal"
 slug: gaiaxus-web-portal
 date: 2025-09-25 -0500
-date_range: "AUG 2024 - PRESENT"
+date_range: "AUG 2024 - MAY 2026"
 description: "I joined a startup and built the main features of a web application managing and sharing water quality data, educational content, and projects."
 category: "current-work"
 skillsets:
